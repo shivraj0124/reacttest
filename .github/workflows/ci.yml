@@ -10,8 +10,8 @@ on:
       - main
 
 jobs:
-  build:
-    name: Build React Application
+  test-and-build:
+    name: Test and Build React Application
     runs-on: ubuntu-latest
 
     steps:
@@ -26,6 +26,9 @@ jobs:
 
       - name: Install Dependencies
         run: npm ci
+
+      - name: Run Automated Tests
+        run: npm test
 
       - name: Build React Application
         run: npm run build
