@@ -12,7 +12,8 @@ function App() {
       </nav>
 
       <main className="hero">
-        <p className="tagline">BUILD. LEARN. DEPLOY.</p>
+        <p className="tagline">BUILD. AUTOMATE. SUCCEED.</p>
+
         <h1>
           Your journey into
           <br />
@@ -42,7 +43,7 @@ function App() {
           </div>
 
           <div className="card">
-            <h3>⚙️ GitHub Actions</h3>
+            <h3>⚙️ GitHub </h3>
             <p>Automate your development workflow.</p>
           </div>
         </div>
