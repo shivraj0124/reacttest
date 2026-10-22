@@ -13,7 +13,6 @@ function App() {
 
       <main className="hero">
         <p className="tagline">BUILD. LEARN. DEPLOY.</p>
-
         <h1>
           Your journey into
           <br />
