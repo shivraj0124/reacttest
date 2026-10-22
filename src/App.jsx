@@ -12,7 +12,7 @@ function App() {
       </nav>
 
       <main className="hero">
-        <p className="tagline">BUILD. AUTOMATE. SUCCEED.</p>
+        <p className="tagline">BUILD. AUTOMATE.</p>
 
         <h1>
           Your journey into
