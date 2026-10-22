@@ -43,7 +43,7 @@ function App() {
           </div>
 
           <div className="card">
-            <h3>⚙️ GitHub </h3>
+            <h3>⚙️ GitHub Actions</h3>
             <p>Automate your development workflow.</p>
           </div>
         </div>
